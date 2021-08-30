@@ -1,0 +1,57 @@
+// 20210830202833
+// https://my-json-server.typicode.com/typicode/demo/db
+
+{
+    "products": [
+      {
+        "id": 1,
+        "title": "Produto 01",
+        "price": 130.00
+      },
+      {
+        "id": 2,
+        "title": "Produto 02",
+        "price": 80.00
+      },
+      {
+        "id": 3,
+        "title": "Produto 03",
+        "price": 170.00
+      }
+      {
+        "id": 4,
+        "title": "Produto 04",
+        "price": 135.00
+      }
+    ],
+    "users": [
+      {
+        "id": 1,
+        "name": "Arthur Novarra",
+        "productsId": 1
+      },
+      {
+        "id": 2,
+        "name": "Marcia Gutierrez",
+        "productsId": 4
+      }
+      {
+        "id": 3,
+        "name": "João Alfredo",
+        "productsId": 2
+      }
+      {
+        "id": 4,
+        "name": "Lucio Almisto",
+        "productsId": 2
+      }
+      {
+        "id": 5,
+        "name": "Vilma de Godoy",
+        "productsId": 3
+      }
+    ],
+    "company": {
+      "name": "my own place "
+    }
+  }
