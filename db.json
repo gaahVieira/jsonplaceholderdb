@@ -1,6 +1,3 @@
-// 20210830202833
-// https://my-json-server.typicode.com/typicode/demo/db
-
 {
     "products": [
       {
@@ -17,7 +14,7 @@
         "id": 3,
         "title": "Produto 03",
         "price": 170.00
-      }
+      },
       {
         "id": 4,
         "title": "Produto 04",
@@ -34,17 +31,17 @@
         "id": 2,
         "name": "Marcia Gutierrez",
         "productsId": 4
-      }
+      },
       {
         "id": 3,
         "name": "João Alfredo",
         "productsId": 2
-      }
+      },
       {
         "id": 4,
         "name": "Lucio Almisto",
         "productsId": 2
-      }
+      },
       {
         "id": 5,
         "name": "Vilma de Godoy",
